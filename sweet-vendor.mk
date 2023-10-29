@@ -342,6 +342,7 @@ PRODUCT_PACKAGES += \
     libsmwrapper \
     libsndmonitor \
     libspkrprot \
+    libxlog \
     libvppclient \
     capi_v2_aptX_CLHDAD_Encoder \
     capi_v2_aptX_Classic \
