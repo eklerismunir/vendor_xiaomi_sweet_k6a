@@ -341,7 +341,6 @@ PRODUCT_PACKAGES += \
     libdsd2pcm \
     libhdmiedid \
     libhfp \
-    libpn553_fw \
     libqcodec2 \
     libqtigef \
     librice \
@@ -566,6 +565,7 @@ PRODUCT_PACKAGES += \
     libqsocket \
     libqtikeymaster4 \
     librcc \
+    libpn553_fw \
     librelight_only \
     libremosaic_wrapper \
     libremosaiclib \
