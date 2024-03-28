@@ -581,6 +581,8 @@ PRODUCT_PACKAGES += \
     libsdm-disp-vndapis \
     libsdmextension \
     libsdsprpc \
+    libsecureui \
+    libsecureui_svcsock \
     libsensorcal \
     libsensorslog \
     libsnpe_adsp \
