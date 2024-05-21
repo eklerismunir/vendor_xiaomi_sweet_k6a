@@ -390,13 +390,13 @@ PRODUCT_PACKAGES += \
     libasphere \
     libmisoundfx \
     libshoebox \
-    com.qti.sensor.sweet_k6a_gc02m1 \
-    com.qti.sensor.sweet_k6a_imx355 \
-    com.qti.sensor.sweet_k6a_imx471_front \
-    com.qti.sensor.sweet_k6a_ov02b1b \
-    com.qti.sensor.sweet_k6a_ov5675_macro \
-    com.qti.sensor.sweet_k6a_s5kgw3 \
-    com.qti.sensor.sweet_k6a_s5khm2 \
+    com.qti.sensor.sweet_gc02m1 \
+    com.qti.sensor.sweet_imx355 \
+    com.qti.sensor.sweet_imx471_front \
+    com.qti.sensor.sweet_ov02b1b \
+    com.qti.sensor.sweet_ov5675_macro \
+    com.qti.sensor.sweet_s5kgw3 \
+    com.qti.sensor.sweet_s5khm2 \
     com.altek.node.depurple \
     com.altek.node.distortioncorrection \
     com.arcsoft.node.capturebokeh \
